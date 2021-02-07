@@ -22,4 +22,3 @@ Panel üzerinde hiç boş kutu kalmayana kadar oyun oynanır, sonunda en çok pu
    ekranda gösterilir.
 7. Dolu kutulara harf yazılmasına izin verilmez.
    
-> Önemli Not : Başka kaynaklardan yararlanabilirsiniz ama kopya ödevler başarısız kabul edilecektir :)  
