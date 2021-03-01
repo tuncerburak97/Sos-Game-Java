@@ -1,4 +1,4 @@
-# Ödev SOS Oyunu
+#SOS Oyunu
 
 |   | 1 | 2 | 3 |
 |---|---|---|---|
@@ -21,8 +21,4 @@ Panel üzerinde hiç boş kutu kalmayana kadar oyun oynanır, sonunda en çok pu
 6. Panele her karakter girişinde panelin güncel hali satır ve sütun numaraları ile birlikte ve oyuncuların puan durumu
    ekranda gösterilir.
 7. Dolu kutulara harf yazılmasına izin verilmez.
-   
-<<<<<<< HEAD
-=======
-> Önemli Not : Başka kaynaklardan yararlanabilirsiniz ama kopya ödevler başarısız kabul edilecektir :)  
->>>>>>> Sos Game
+
